@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3b832a40276b5849bc53719e78c401b
+timeCreated: 1494925125
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Prefab/MessageLogDataBaseTMPro.prefab
+  uploadId: 748853

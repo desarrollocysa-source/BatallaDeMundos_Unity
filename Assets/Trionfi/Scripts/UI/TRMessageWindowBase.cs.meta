@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cbc810ece546140ec97000b7d10c4f80
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/UI/TRMessageWindowBase.cs
+  uploadId: 748853

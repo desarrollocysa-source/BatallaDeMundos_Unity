@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a092198d8d8dc114886231ce7884246d
+timeCreated: 1504895962
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/SpriteDicing/Editor/Editors/DicedSpriteAtlasEditor.cs
+  uploadId: 748853

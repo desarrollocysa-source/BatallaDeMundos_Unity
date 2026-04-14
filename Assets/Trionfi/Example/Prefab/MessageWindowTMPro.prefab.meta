@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5fdd1ad368372440f92858fdd486e9c9
+timeCreated: 1532681551
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Prefab/MessageWindowTMPro.prefab
+  uploadId: 748853

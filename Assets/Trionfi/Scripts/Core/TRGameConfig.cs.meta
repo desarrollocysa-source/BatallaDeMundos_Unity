@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c1045eb772ba8564da59dfd696673376
+timeCreated: 1531304664
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/Core/TRGameConfig.cs
+  uploadId: 748853

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c01796d064528144a599661eaab93a6
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/UniTask/Runtime/Linq/UniTask.Linq.asmdef
+  uploadId: 748853

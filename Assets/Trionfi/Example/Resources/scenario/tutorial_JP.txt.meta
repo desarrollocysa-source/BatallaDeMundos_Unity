@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3009990175a52394d8467c23cd0b9eec
+timeCreated: 1535967975
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Resources/scenario/tutorial_JP.txt
+  uploadId: 748853

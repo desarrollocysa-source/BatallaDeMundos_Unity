@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afec8842d1c4ea34c91cf25fa3b171df
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/SpriteDicing/LICENSE.md
+  uploadId: 748853

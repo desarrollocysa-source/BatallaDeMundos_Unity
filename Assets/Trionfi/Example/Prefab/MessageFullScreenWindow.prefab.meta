@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d4c01464d95614d489116c6da814cc4a
+timeCreated: 1532681551
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Prefab/MessageFullScreenWindow.prefab
+  uploadId: 748853

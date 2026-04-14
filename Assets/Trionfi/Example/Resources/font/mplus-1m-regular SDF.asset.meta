@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70ad82775d5c14d2db5cbfcd94f21b76
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Resources/font/mplus-1m-regular SDF.asset
+  uploadId: 748853

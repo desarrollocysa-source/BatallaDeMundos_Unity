@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0a4ffd61bc20fa4c9513c37a78cd1e8
+timeCreated: 1540555287
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Template/Resources/ActPatternList.csv
+  uploadId: 748853

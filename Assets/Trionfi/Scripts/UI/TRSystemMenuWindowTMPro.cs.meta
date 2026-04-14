@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ceaefd92ae98742c48c86360adeb7dcf
+timeCreated: 1532679928
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/UI/TRSystemMenuWindowTMPro.cs
+  uploadId: 748853

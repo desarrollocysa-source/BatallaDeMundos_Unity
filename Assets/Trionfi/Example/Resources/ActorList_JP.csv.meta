@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7559f5ecd11f474fb7c6eaebfdf11a8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Resources/ActorList_JP.csv
+  uploadId: 748853

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cad6b67bbfc1d0a4294c116be9b8f550
+timeCreated: 1540547504
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Resources/ActorList.csv
+  uploadId: 748853

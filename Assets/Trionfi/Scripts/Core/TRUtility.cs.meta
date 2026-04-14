@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2451d63ed998ed24eaa146ce761ca24f
+timeCreated: 1533553926
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/Core/TRUtility.cs
+  uploadId: 748853

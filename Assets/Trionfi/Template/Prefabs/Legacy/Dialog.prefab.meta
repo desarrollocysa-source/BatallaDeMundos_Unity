@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4adf4484e88ca44c888251d89ba5129a
+timeCreated: 1532681548
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Template/Prefabs/Legacy/Dialog.prefab
+  uploadId: 748853

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ec3b4cc7ea0a445f2b1f6a5ef13bd702
+timeCreated: 1535957119
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/UI/TRTitleBase.cs
+  uploadId: 748853

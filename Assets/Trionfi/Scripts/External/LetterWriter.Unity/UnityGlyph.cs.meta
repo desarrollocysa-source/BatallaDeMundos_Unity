@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b7ac75df0ace7424e920c8d752e45029
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/External/LetterWriter.Unity/UnityGlyph.cs
+  uploadId: 748853

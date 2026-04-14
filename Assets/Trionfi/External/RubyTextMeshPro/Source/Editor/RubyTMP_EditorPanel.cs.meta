@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3ed2ac7f818bdde4c9509e536d2f4998
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/RubyTextMeshPro/Source/Editor/RubyTMP_EditorPanel.cs
+  uploadId: 748853

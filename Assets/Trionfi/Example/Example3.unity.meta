@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 298c2c985bf4ac34e8c24e84fc34b306
+timeCreated: 1456803950
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Example3.unity
+  uploadId: 748853

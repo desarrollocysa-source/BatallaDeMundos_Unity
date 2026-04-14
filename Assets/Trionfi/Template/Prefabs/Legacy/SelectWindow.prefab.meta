@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1590c3633d312d34d8817b95d561a836
+timeCreated: 1532681554
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Template/Prefabs/Legacy/SelectWindow.prefab
+  uploadId: 748853

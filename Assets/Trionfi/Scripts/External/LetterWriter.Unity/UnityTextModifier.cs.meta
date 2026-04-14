@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57f26872eda20ec4dae6bf2469d6d49f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/External/LetterWriter.Unity/UnityTextModifier.cs
+  uploadId: 748853

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 498f6bf88a3eb604ea17b9d5037db054, type: 3}
+  m_Name: ser_guerrero_jaguar_terrenal_001
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardId: ser_guerrero_jaguar_terrenal_001
+  cardName: Guerrero Jaguar
+  artwork: {fileID: 7765875821853148359, guid: 654a92e6b5ddc5c46b704fb58d05bb3b, type: 3}
+  world: 1
+  type: 0
+  battleType: 1
+  attack: 5
+  defense: 2
+  hasAbility: 0
+  effectDescription: 
+  activationMode: 0
+  supportSubtype: 0
+  isPermanent: 0
+  durationTurns: 0
+  isMortifera: 0
+  isProyectil: 0

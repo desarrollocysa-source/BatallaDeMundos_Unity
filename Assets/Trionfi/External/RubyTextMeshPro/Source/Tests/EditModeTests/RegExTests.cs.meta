@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 19253be70effa2c459e14eb3a33bf233
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/RubyTextMeshPro/Source/Tests/EditModeTests/RegExTests.cs
+  uploadId: 748853

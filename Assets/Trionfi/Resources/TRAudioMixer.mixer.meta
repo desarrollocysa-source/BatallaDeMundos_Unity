@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff775a812c3bd6946bd25923b4a92ddc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 24100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/TRAudioMixer.mixer
+  uploadId: 748853

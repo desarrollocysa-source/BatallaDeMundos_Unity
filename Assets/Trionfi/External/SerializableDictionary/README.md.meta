@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b5b470173117434f89f6986b0332610
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/SerializableDictionary/README.md
+  uploadId: 748853

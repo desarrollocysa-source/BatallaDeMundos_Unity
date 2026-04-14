@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e4331f540afde4efcbd6f466b08ed3c2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/TagImplement/ImageComponent.cs
+  uploadId: 748853

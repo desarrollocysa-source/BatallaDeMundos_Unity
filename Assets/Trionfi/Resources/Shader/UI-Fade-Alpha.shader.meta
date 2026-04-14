@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: edff0f80837743c4f9feb5907291503c
+timeCreated: 1446562943
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Shader/UI-Fade-Alpha.shader
+  uploadId: 748853

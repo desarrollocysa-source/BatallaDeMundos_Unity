@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf873bb23d05d1641a6a903ef61dbd8b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Materials/Blur.mat
+  uploadId: 748853

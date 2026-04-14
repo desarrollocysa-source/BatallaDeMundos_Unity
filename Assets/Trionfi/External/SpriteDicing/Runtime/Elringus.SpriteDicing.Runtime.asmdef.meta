@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88c54edcfcc58e24c8b704cdd7d780e1
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/SpriteDicing/Runtime/Elringus.SpriteDicing.Runtime.asmdef
+  uploadId: 748853

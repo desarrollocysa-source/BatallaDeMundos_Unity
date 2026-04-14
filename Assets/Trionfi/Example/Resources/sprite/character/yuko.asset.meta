@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0df45d48520e073499dbfdbd5830994c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Resources/sprite/character/yuko.asset
+  uploadId: 748853

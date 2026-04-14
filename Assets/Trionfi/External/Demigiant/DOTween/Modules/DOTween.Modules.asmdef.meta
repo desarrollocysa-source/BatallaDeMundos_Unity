@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2886368cc3e1dc644b8dc8c633264f61
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/Demigiant/DOTween/Modules/DOTween.Modules.asmdef
+  uploadId: 748853

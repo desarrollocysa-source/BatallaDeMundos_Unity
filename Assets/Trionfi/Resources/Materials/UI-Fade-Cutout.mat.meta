@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c08cd46eaf9a0d34eb221ba2978cc476
+timeCreated: 1446536351
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Materials/UI-Fade-Cutout.mat
+  uploadId: 748853

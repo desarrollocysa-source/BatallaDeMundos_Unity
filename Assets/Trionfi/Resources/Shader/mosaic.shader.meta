@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36a26dcd22192d3489eebf73c4560728
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Shader/mosaic.shader
+  uploadId: 748853

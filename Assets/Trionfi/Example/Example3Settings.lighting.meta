@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c05c85bf541e54afa8beab03181443cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Example3Settings.lighting
+  uploadId: 748853

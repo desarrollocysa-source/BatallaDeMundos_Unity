@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81c401ef1874c8b49bf6018603cd2279
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/SpriteDicing/Editor/Elringus.SpriteDicing.Editor.asmdef
+  uploadId: 748853

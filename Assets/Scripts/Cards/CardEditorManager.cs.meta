@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: e62b5d4b9f2f57e47a495faac34079bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - previewCard: {fileID: 2583584253579785374, guid: e949eb39f6b9ee343aaeb39bb4cbe814, type: 3}
+  - PanelCommon: {instanceID: 0}
+  - panelSer: {instanceID: 0}
+  - panelApoyo: {instanceID: 0}
+  - panelArma: {instanceID: 0}
+  - inputName: {instanceID: 0}
+  - inputId: {instanceID: 0}
+  - inputAttack: {instanceID: 0}
+  - inputDefense: {instanceID: 0}
+  - inputDescription: {instanceID: 0}
+  - inputDurationTurns: {instanceID: 0}
+  - dropdownType: {instanceID: 0}
+  - dropdownWorld: {instanceID: 0}
+  - dropdownBattleType: {instanceID: 0}
+  - dropdownSupportSubtype: {instanceID: 0}
+  - dropdownActivationMode: {instanceID: 0}
+  - toggleAbility: {instanceID: 0}
+  - toggleIsPermanent: {instanceID: 0}
+  - toggleIsMortifera: {instanceID: 0}
+  - toggleIsProyectil: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

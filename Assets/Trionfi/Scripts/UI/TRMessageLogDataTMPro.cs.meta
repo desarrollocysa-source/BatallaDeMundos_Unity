@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ea6ad31649a474e41a9ad34a257df112
+timeCreated: 1540895875
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/UI/TRMessageLogDataTMPro.cs
+  uploadId: 748853

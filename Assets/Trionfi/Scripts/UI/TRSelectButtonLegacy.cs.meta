@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4815cbbe43c33472bbcde6f3da045d05
+timeCreated: 1494848399
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/UI/TRSelectButtonLegacy.cs
+  uploadId: 748853

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc47925d1a5fa2946bdd37746b2b5d48
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/UniTask/Runtime/External/TextMeshPro/UniTask.TextMeshPro.asmdef
+  uploadId: 748853

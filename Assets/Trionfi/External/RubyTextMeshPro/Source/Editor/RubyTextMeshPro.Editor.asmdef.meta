@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d697fe7051e0d9344b492c7dbf7a09b8
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/External/RubyTextMeshPro/Source/Editor/RubyTextMeshPro.Editor.asmdef
+  uploadId: 748853

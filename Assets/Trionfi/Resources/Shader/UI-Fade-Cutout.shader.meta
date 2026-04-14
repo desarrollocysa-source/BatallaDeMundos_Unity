@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5b17613b5d88c2478da53bc9634bb9d
+timeCreated: 1446535645
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Shader/UI-Fade-Cutout.shader
+  uploadId: 748853

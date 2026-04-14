@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc418ba796868ae4eaa27101c20f2cfe
+timeCreated: 1535967975
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Template/Resources/scenario/start.txt
+  uploadId: 748853

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 280cdeb878b556141b07c4b6f1023167
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Shader/UI-Mask.shader
+  uploadId: 748853

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d3d80156e2ece548a082c45e333c78d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Template/Prefabs/Legacy/Serializer.prefab
+  uploadId: 748853

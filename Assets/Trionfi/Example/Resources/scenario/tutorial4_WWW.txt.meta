@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b70efbf92c298534285559a42f03e11c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Example/Resources/scenario/tutorial4_WWW.txt
+  uploadId: 748853

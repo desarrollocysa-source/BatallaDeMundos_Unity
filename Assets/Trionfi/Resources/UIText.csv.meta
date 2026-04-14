@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 184bdbe4ab0441644bcfdb380f135e3e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/UIText.csv
+  uploadId: 748853

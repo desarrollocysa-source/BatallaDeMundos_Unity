@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a7049cd9ab42cb54da46ebb9764b43d2
+timeCreated: 1536648709
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Scripts/ScriptableObject/TRAssetPathObject.cs
+  uploadId: 748853

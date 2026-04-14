@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9d88d72d65d92d409606deefe2646d6
+timeCreated: 1446562985
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236171
+  packageName: Trionfi
+  packageVersion: 1.2.0
+  assetPath: Assets/Trionfi/Resources/Materials/UI-Fade-Alpha.mat
+  uploadId: 748853
